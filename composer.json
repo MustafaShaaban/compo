@@ -1,0 +1,17 @@
+{
+    "name": "pc/comp",
+    "description": "Mustafa project",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "2.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ninja Master",
+            "email": "Mustafashaaban22@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0"
+}
